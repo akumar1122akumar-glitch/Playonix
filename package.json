@@ -1,0 +1,1 @@
+{\n  \"name\": \"playonix\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Backend for Playonix\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo 'Error: no test specified' && exit 1\"\n  },\n  \"author\": \"akumar1122akumar\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"express\": \"^4.17.1\",\n    \"body-parser\": \"^1.19.0\"\n  }\n}
